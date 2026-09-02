@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1324577d9cfa6b3f",
+        "id": "14e30c5633e2a35a",
         "type": "tabs",
         "children": [
           {
-            "id": "7665964cbf2d1a8f",
+            "id": "964dac521021b4b7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "test.md",
-                "bFile": "test.md",
-                "aRef": ""
+                "file": "core-concept/Architettura del cluster.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: test  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Architettura del cluster"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "core-concept/Architettura del cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "core-concept/Architettura del cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "core-concept/Architettura del cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9955e0e7499272c0",
+  "active": "964dac521021b4b7",
   "lastOpenFiles": [
+    "core-concept/Concetti fodamentali.md",
+    "CKA.md",
+    "core-concept/Servizi e altre primitive di rete.md",
+    "core-concept/API Primitives.md",
+    "core-concept/Architettura del cluster.md",
+    "core-concept",
+    "prova.md",
+    "CIAO.md",
     "test.md",
     "Senza nome.base"
   ]
